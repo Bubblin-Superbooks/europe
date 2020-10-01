@@ -1,3 +1,14 @@
+# SPECIFICATIONS:
+
+Dual page full-bleed pictures should be 2230 (w) x 1443 (h) pixels in aspect ratio.
+
+Other aspect-ratios:
+
+1. Portrait pics must be less than 1443px in height.
+2. Landscape pics must be less than 2230px in width.
+
+Inset portrait pictures must be less than 1115px in width and less than 1443 px in height both.
+
 # THE BOOK
 
 Europe in pictures. Read the book <a href="https://bubblin.io/book/europe-by-mateus-jatenee" class="cover">here</a>.
@@ -15,7 +26,7 @@ This book uses the [Superbook](https://bubblin.io/docs/format) format and is bro
 
 ### TABLET FIRST &amp; OFFLINE FIRST
 
-Superbooks are naturally responsive and work on all browsers, all viewports and devices and all operating systems. See support information [here](https://bubblin.io/support) and the full list of supported devices [here](https://bubblin.io/devices). In general, the most ideal surface to read these books on (recommended) are the \~9&quot; tablets like the iPad or the Galaxy Tab or Kindle Fire HD, ala &apos;on-web&apos;.
+Superbooks are naturally responsive and work on all browsers, all viewports and devices, and, all operating systems. See support information [here](https://bubblin.io/support) and the full list of supported devices [here](https://bubblin.io/devices). In general, the most ideal surface to read these books on (recommended) are the \~9&quot; tablets like the iPad or the Galaxy Tab or Kindle Fire HD, ala &apos;on-web&apos;.
 
 This book is _offline-ready_. Is uses a Service Worker under the hood, so no explicit download is required to read or share the book online.
 
@@ -35,8 +46,7 @@ We try and support cross-platform books&#x2014;feel free to raise an issue or su
 
 The manuscript on this repo has been generated programmatically using [Bookiza Abelone](https://bookiza.io), [h2s](https://github.com/bookiza/h2s) and a few other sanitization libraries.
 
-
-:point_right: In spirit of the standard vocabulary of publishing, this git repository is the `manuscript` whereas the book i.e. the distributable &apos;consumer-ready&apos; form is hosted _live_ on the url specified at the top.
+:point_right: In the spirit of publishing books, the vocabulary is that this git repository is the `manuscript` whereas the distributable &apos;consumer-ready&apos; form i.e. the book is hosted _live_ on the url specified at the top.
 
 
 ### GOING FULLSCREEN
