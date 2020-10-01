@@ -1,6 +1,6 @@
 # THE BOOK
 
-108 Verses of Gita. Read the book <a href="https://bubblin.io/book/europe-by-mateus-jatenee" class="cover">here</a>.
+Europe in pictures. Read the book <a href="https://bubblin.io/book/europe-by-mateus-jatenee" class="cover">here</a>.
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-hipsters.svg)](https://bubblin.io/about)
